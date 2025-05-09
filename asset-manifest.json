@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/-Product_reg2025/static/css/main.2d0951d5.css",
+    "main.js": "/-Product_reg2025/static/js/main.942cb7a6.js",
+    "index.html": "/-Product_reg2025/index.html",
+    "main.2d0951d5.css.map": "/-Product_reg2025/static/css/main.2d0951d5.css.map",
+    "main.942cb7a6.js.map": "/-Product_reg2025/static/js/main.942cb7a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d0951d5.css",
+    "static/js/main.942cb7a6.js"
+  ]
+}
